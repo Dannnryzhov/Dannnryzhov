@@ -1,10 +1,10 @@
 ## Hi i'm Daniil 👋
 
-🎓 Student at BSU | Faculty of Radiophysics and Computer Technologies/>
+🎓 Student at BSU | Faculty of Radiophysics and Computer Technologies
 
-📱 Android Developer | Java | Kotlin />
+📱 Android Developer | Java | Kotlin
 
-💬 Let's connect: t.me/DN_Ry || @DN_Ry />
+💬 Let's connect: t.me/DN_Ry || @DN_Ry
 
 
 # 💻 Tech Stack:
